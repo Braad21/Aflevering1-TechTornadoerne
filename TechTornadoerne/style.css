@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+h1 {color: #263c22;}
+span {font-style: italic;}
+
+
+button {
+    color: #ffffff;
+    background-color: rgba(12, 52, 87, 0.78);
+    padding: 10px 20px; 
+    font-size: 16px; 
+    font-weight: bold; 
+}
+button:hover {
+    background-color: rgba(30, 99, 159, 0.78);
+}
+
